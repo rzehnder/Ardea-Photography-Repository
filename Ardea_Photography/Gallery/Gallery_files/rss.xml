@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Gallery</title>
+    <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Gallery.html</link>
+    <description>Browse photographs by category.</description>
+    <item>
+      <title>Flowers &amp; Plants</title>
+      <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Pages/Flowers_%26_Plants.html</link>
+      <guid isPermaLink="false">f66d6a95-c8e8-4bb3-836f-0e63333ba57d</guid>
+    </item>
+    <item>
+      <title>Birds</title>
+      <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Pages/Birds.html</link>
+      <guid isPermaLink="false">bf422d30-4249-4112-92fa-01da2be6e245</guid>
+    </item>
+    <item>
+      <title>Amphibians &amp; Reptiles</title>
+      <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Pages/Amphibians_%26_Reptiles.html</link>
+      <guid isPermaLink="false">3ba01abf-b024-4895-8991-9a451ff51a95</guid>
+    </item>
+    <item>
+      <title>Landscapes</title>
+      <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Pages/Landscapes.html</link>
+      <guid isPermaLink="false">e7a933e4-2c43-49d3-8a6d-753de81b1dde</guid>
+    </item>
+    <item>
+      <title>Other</title>
+      <link>http://ardeaphotography.com/Ardea_Photography/Gallery/Pages/Other.html</link>
+      <guid isPermaLink="false">10f6d98d-39ae-4362-996a-1d86c107614f</guid>
+    </item>
+  </channel>
+</rss>

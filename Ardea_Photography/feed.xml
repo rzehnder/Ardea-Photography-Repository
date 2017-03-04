@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:CA6EDC7D-1BBA-4B0D-85B4-D9F400E17CDD</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-05-15T13:11:15-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F2202508-245F-48B8-9660-0852367B705A</id>
+  <title>Ardea Photography Home</title>
+  <title xmlns="urn:iweb:">Ardea Photography Home</title>
+  <in-navbar xmlns="urn:iweb:">F2202508-245F-48B8-9660-0852367B705A</in-navbar>
+  <link rel="alternate" href="Ardea_Photography_Home.html"/>
+  <updated>2012-05-15T13:11:15.001-04:00</updated>
+  <content>Ardea Photography Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:858577C1-089F-4681-A287-A83FA4EFA21C</id>
+  <title>Gallery</title>
+  <title xmlns="urn:iweb:">Gallery</title>
+  <in-navbar xmlns="urn:iweb:">858577C1-089F-4681-A287-A83FA4EFA21C</in-navbar>
+  <link rel="alternate" href="Gallery/Gallery.html"/>
+  <updated>2012-05-15T13:11:15.002-04:00</updated>
+  <content>Gallery</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:06ECB9D7-DA27-4796-8600-F37EE84DACBB</id>
+  <title>Favorites</title>
+  <title xmlns="urn:iweb:">Favorites</title>
+  <in-navbar xmlns="urn:iweb:">06ECB9D7-DA27-4796-8600-F37EE84DACBB</in-navbar>
+  <link rel="alternate" href="Favorites.html"/>
+  <updated>2012-05-15T13:11:15.003-04:00</updated>
+  <content>Favorites</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E2860755-68AE-4E8D-8606-7BD43F8BA6F3</id>
+  <title>Recent Additions</title>
+  <title xmlns="urn:iweb:">Recent Additions</title>
+  <in-navbar xmlns="urn:iweb:">E2860755-68AE-4E8D-8606-7BD43F8BA6F3</in-navbar>
+  <link rel="alternate" href="Recent_Additions.html"/>
+  <updated>2012-05-15T13:11:15.004-04:00</updated>
+  <content>Recent Additions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:42C597E3-A4A3-4AFD-B865-4281F13E6579</id>
+  <title>Order</title>
+  <title xmlns="urn:iweb:">Order</title>
+  <in-navbar xmlns="urn:iweb:">42C597E3-A4A3-4AFD-B865-4281F13E6579</in-navbar>
+  <link rel="alternate" href="Order.html"/>
+  <updated>2012-05-15T13:11:15.005-04:00</updated>
+  <content>Order</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B30E4158-E00F-49DB-920D-2CB056587B5D</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">B30E4158-E00F-49DB-920D-2CB056587B5D</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2012-05-15T13:11:15.006-04:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
